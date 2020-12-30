@@ -6,13 +6,19 @@ msgstr ""
 "Source-Language: en-US\n"
 "Source-Version: 1.2\n"
 "Source-Last-Modified: 20200923\n"
-"Target-Language: es-MX\n"
-"Target-Version: 1.2\n"
-"Target-Last-Modified: 20200923\n"
-"MIME-Version: 1.0\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Target-Language: \n"
+"Target-Version: \n"
+"Target-Last-Modified: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: foldingathome\n"
+"X-Crowdin-Project-ID: 432416\n"
+"X-Crowdin-Language: es-MX\n"
+"X-Crowdin-File: /master/Localization/en-US/dig-deeper.po\n"
+"X-Crowdin-File-ID: 58\n"
+"Project-Id-Version: foldingathome\n"
+"Language-Team: Spanish, Mexico\n"
 "Language: es_MX\n"
-"X-Generator: Poedit 2.3.1\n"
+"PO-Revision-Date: 2020-12-30 20:03\n"
 
 msgid "DIG DEEPER"
 msgstr "PROFUNDIZA"
@@ -135,46 +141,46 @@ msgid "MSMs and adaptive sampling have been used to study protein folding (1-8),
 msgstr "Los MEM y el muestreo adaptativo se han utilizado para estudiar el plegamiento de proteínas (1-8), la dinámica funcional (8-11), la unión de ligandos (11-14) y las interacciones proteína-proteína (15)."
 
 msgid "Jayachandran G, Vishal V, & Pande VS (2006) Using massively parallel simulation and Markovian models to study protein folding: Examining the dynamics of the villin headpiece. Journal of Chemical Physics 124:164902."
-msgstr "Jayachandran G, Vishal V, & Pande VS (2006) Using massively parallel simulation and Markovian models to study protein folding: Examining the dynamics of the villin headpiece. Journal of Chemical Physics 124:164902."
+msgstr ""
 
 msgid "Bowman GR, Beauchamp KA, Boxer G, & Pande VS (2009) Progress and challenges in the automated construction of Markov state models for full protein systems. Journal of Chemical Physics 131(12):124101."
-msgstr "Bowman GR, Beauchamp KA, Boxer G, & Pande VS (2009) Progress and challenges in the automated construction of Markov state models for full protein systems. Journal of Chemical Physics 131(12):124101."
+msgstr ""
 
 msgid "Noe F, Schutte C, Vanden-Eijnden E, Reich L, & Weikl TR (2009) Constructing the equilibrium ensemble of folding pathways from short off-equilibrium simulations. Proceedings of the National Academy of Sciences of the USA 106(45):19011-19016."
-msgstr "Noe F, Schutte C, Vanden-Eijnden E, Reich L, & Weikl TR (2009) Constructing the equilibrium ensemble of folding pathways from short off-equilibrium simulations. Proceedings of the National Academy of Sciences of the USA 106(45):19011-19016."
+msgstr ""
 
 msgid "Bowman GR & Pande VS (2010) Protein folded states are kinetic hubs. Proceedings of the National Academy of Sciences of the USA 107(24):10890-10895."
-msgstr "Bowman GR & Pande VS (2010) Protein folded states are kinetic hubs. Proceedings of the National Academy of Sciences of the USA 107(24):10890-10895."
+msgstr ""
 
 msgid "Beauchamp KA, Ensign DL, Das R, & Pande VS (2011) Quantitative comparison of villin headpiece subdomain simulations and triplet-triplet energy transfer experiments. Proc Natl Acad Sci USA 108:12734-12739."
-msgstr "Beauchamp KA, Ensign DL, Das R, & Pande VS (2011) Quantitative comparison of villin headpiece subdomain simulations and triplet-triplet energy transfer experiments. Proc Natl Acad Sci USA 108:12734-12739."
+msgstr ""
 
 msgid "Bowman GR, Voelz VA, & Pande VS (2011) Atomistic folding simulations of the five-helix bundle protein (6-85). Journal of the American Chemical Society 133(4):664-667."
-msgstr "Bowman GR, Voelz VA, & Pande VS (2011) Atomistic folding simulations of the five-helix bundle protein (6-85). Journal of the American Chemical Society 133(4):664-667."
+msgstr ""
 
 msgid "Voelz VA et al. (2012) Slow unfolded-state structuring in Acyl-CoA binding protein folding revealed by simulation and experiment. Journal of the American Chemical Society 134(30):12565-12577."
-msgstr "Voelz VA et al. (2012) Slow unfolded-state structuring in Acyl-CoA binding protein folding revealed by simulation and experiment. Journal of the American Chemical Society 134(30):12565-12577."
+msgstr ""
 
 msgid "Lane TJ, Bowman GR, Beauchamp K, Voelz VA, & Pande VS (2011) Markov state model reveals folding and functional dynamics in ultra-long MD trajectories. Journal of the American Chemical Society 133(45):18413-18419."
-msgstr "Lane TJ, Bowman GR, Beauchamp K, Voelz VA, & Pande VS (2011) Markov state model reveals folding and functional dynamics in ultra-long MD trajectories. Journal of the American Chemical Society 133(45):18413-18419."
+msgstr ""
 
 msgid "Yang S, Banavali NK, & Roux B (2009) Mapping the conformational transition in Src activation by cumulating the information from multiple molecular dynamics trajectories. Proc Natl Acad Sci USA 106(10):3776-3781."
-msgstr "Yang S, Banavali NK, & Roux B (2009) Mapping the conformational transition in Src activation by cumulating the information from multiple molecular dynamics trajectories. Proc Natl Acad Sci USA 106(10):3776-3781."
+msgstr ""
 
 msgid "Morcos F, et al. (2010) Modeling conformational ensembles of slow functional motions in Pin1-WW. PLoS Computational Biology 6(12):e1001015."
 msgstr "Morcos F, et al. (2010) Modeling conformational ensembles of slow functional motions in Pin1-WW. PLoS Computational Biology 6(12):e1001015.."
 
 msgid "Bowman GR & Geissler PL (2012) Equilibrium fluctuations of a single folded protein reveal a multitude of potential cryptic allosteric sites. Proc Natl Acad Sci USA 109(29):11681-11686."
-msgstr "Bowman GR & Geissler PL (2012) Equilibrium fluctuations of a single folded protein reveal a multitude of potential cryptic allosteric sites. Proc Natl Acad Sci USA 109(29):11681-11686."
+msgstr ""
 
 msgid "Silva DA, Bowman GR, Sosa-Peinado A, & Huang X (2011) A role for both conformational selection and induced fit in ligand binding by the LAO protein. PLoS Computational Biology 7(5):e1002054."
-msgstr "Silva DA, Bowman GR, Sosa-Peinado A, & Huang X (2011) A role for both conformational selection and induced fit in ligand binding by the LAO protein. PLoS Computational Biology 7(5):e1002054."
+msgstr ""
 
 msgid "Buch I, Giorgino T, & De Fabritiis G (2011) Complete reconstruction of an enzyme-inhibitor binding process by molecular dynamics simulations. Proc Natl Acad Sci USA 108(25):10184-10189."
-msgstr "Buch I, Giorgino T, & De Fabritiis G (2011) Complete reconstruction of an enzyme-inhibitor binding process by molecular dynamics simulations. Proc Natl Acad Sci USA 108(25):10184-10189."
+msgstr ""
 
 msgid "Held M, Metzner P, Prinz JH, & Noe F (2011) Mechanisms of protein-ligand association and its modulation by protein mutations. Biophysics Journal 100(3):701-710."
-msgstr "Held M, Metzner P, Prinz JH, & Noe F (2011) Mechanisms of protein-ligand association and its modulation by protein mutations. Biophysics Journal 100(3):701-710."
+msgstr ""
 
 msgid "Levin AM et al. (2012) Exploiting a natural conformational switch to engineer an interleukin-2 ‘super-kine.’ Nature 484(7395):529-533."
 msgstr "Levin AM et al. (2012) Exploiting a natural conformational switch to engineer an interleukin-2 ‘super-kine.’ Nature 484(7395):529-533.s"
@@ -184,3 +190,4 @@ msgstr "¿Quién respondió a estas preguntas?"
 
 msgid "These questions were answered primarily by TJ Lane, Gregory Bowman, Robert McGibbon, Christian Schwantes, Vijay Pande, and Bruce Borden."
 msgstr "Estas preguntas fueron respondidas principalmente por TJ Lane, Gregory Bowman, Robert McGibbon, Christian Schwantes, Vijay Pande y Bruce Borden."
+
