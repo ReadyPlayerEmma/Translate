@@ -1,0 +1,20 @@
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/together-we-are-powerful/\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Source-Language: en-US\n"
+"Source-Version: 1.0\n"
+"Source-Last-Modified: 20201217\n"
+"Target-Language:\n"
+"Target-Version:\n"
+"Target-Last-Modified:\n"
+
+msgid "Sundays is a good day"
+msgstr ""
+
+msgid "New year is just around the corner"
+msgstr ""
+
+msgid "Hope that 2021 is a better year"
+msgstr ""
