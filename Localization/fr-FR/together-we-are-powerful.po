@@ -6,9 +6,19 @@ msgstr ""
 "Source-Language: en-US\n"
 "Source-Version: 1.4\n"
 "Source-Last-Modified: 20201217\n"
-"Target-Language: fr-FR\n"
-"Target-Version: 1.4\n"
-"Target-Last-Modified: 20201217\n"
+"Target-Language:\n"
+"Target-Version:\n"
+"Target-Last-Modified:\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: foldingathome\n"
+"X-Crowdin-Project-ID: 432416\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /master/Localization/en-US/together-we-are-powerful.po\n"
+"X-Crowdin-File-ID: 72\n"
+"Project-Id-Version: foldingathome\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2020-12-30 20:18\n"
 
 msgid "Together We Are Powerful - Folding@home"
 msgstr "Ensemble, nous sommes formidables - Folding@home"
@@ -59,7 +69,7 @@ msgid "Foldingathome Ambassadors"
 msgstr "Ambassadeurs Foldingathome"
 
 msgid "Satya Nadella"
-msgstr "Satya Nadella"
+msgstr ""
 
 msgid "CEO, Microsoft"
 msgstr "PDG, Microsoft"
@@ -71,13 +81,13 @@ msgid "President & CEO, AMD"
 msgstr "Présidente et PDG, AMD"
 
 msgid "Jensen Huang"
-msgstr "Jensen Huang"
+msgstr ""
 
 msgid "CEO, Nvidia"
 msgstr "PDG, Nvidia"
 
 msgid "Bob Swan"
-msgstr "Bob Swan"
+msgstr ""
 
 msgid "CEO Intel"
 msgstr "PDG Intel"
@@ -89,67 +99,67 @@ msgid "Director of Foldingathome & Associate Professor, Washington University Sc
 msgstr "Directeur de Foldingathome et professeur associé à l'École de médecine de l'Université Washington de Saint-Louis"
 
 msgid "Charles H. Giancarlo"
-msgstr "Charles H. Giancarlo"
+msgstr ""
 
 msgid "CEO, Pure Storage"
 msgstr "PDG, Pure Storage"
 
 msgid "Ilma Caprnja"
-msgstr "Ilma Caprnja"
+msgstr ""
 
 msgid "Medical student, Lund University"
 msgstr "Étudiante en médecine, Université de Lund"
 
 msgid "Minerva Santana"
-msgstr "Minerva Santana"
+msgstr ""
 
 msgid "Director of Innovation and Technological Transformation at LaLiga"
 msgstr "Directrice de l'innovation et de la transformation technologique, LaLiga"
 
 msgid "Michael Ward"
-msgstr "Michael Ward"
+msgstr ""
 
 msgid "PhD Student, Bowman lab, Washington University School of Medicine in St Louis"
 msgstr "Doctorant, Laboratoire Bowman, École de médecine de l'Université Washington de Saint-Louis"
 
 msgid "Patrick P. Gelsinger"
-msgstr "Patrick P. Gelsinger"
+msgstr ""
 
 msgid "CEO, VMware"
 msgstr "PDG, VMware"
 
 msgid "Pedro Valadas"
-msgstr "Pedro Valadas"
+msgstr ""
 
 msgid "Founder, PCMR / Communication Advisor, Foldingathome"
 msgstr "Fondateur, PCMR / Conseiller en communication, Foldingathome"
 
 msgid "Vijay Pande"
-msgstr "Vijay Pande"
+msgstr ""
 
 msgid "General Partner, Andreessen Horowitz / Founder, Foldingathome"
 msgstr "Commandité, Andreessen Horowitz / Fondateur, Foldingathome"
 
 msgid "Anton Thynell"
-msgstr "Anton Thynell"
+msgstr ""
 
 msgid "Head of Collaboration and Communication, Foldingathome"
 msgstr "Responsable de la collaboration et de la communication, Foldingathome"
 
 msgid "Kirill Konovalov"
-msgstr "Kirill Konovalov"
+msgstr ""
 
 msgid "Phd Student Xuhui lab, The Hong Kong University of Science and Technology"
 msgstr "Doctorant au laboratoire Xuhui de l'Université des sciences et technologies de Hong Kong"
 
 msgid "Emma Matthies"
-msgstr "Emma Matthies"
+msgstr ""
 
 msgid "Info Security Engineer"
 msgstr "Ingénieure en sécurité informatique"
 
 msgid "Kevin Wasielewski"
-msgstr "Kevin Wasielewski"
+msgstr ""
 
 msgid "Co-founder & CEO Origin PC"
 msgstr "Cofondateur et PDG, Origin PC"
@@ -186,3 +196,4 @@ msgstr "[Autres versions](https://foldingathome.org/alternative-downloads/)"
 
 msgid "Contributors"
 msgstr "Contributeurs"
+
