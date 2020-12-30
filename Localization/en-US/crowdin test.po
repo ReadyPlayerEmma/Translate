@@ -10,11 +10,11 @@ msgstr ""
 "Target-Version:\n"
 "Target-Last-Modified:\n"
 
-msgid "Sundays is a good day"
+msgid "Sundays is a good day hello"
 msgstr ""
 
-msgid "New year is just around the corner"
+msgid "New year is just around the corner hi"
 msgstr ""
 
-msgid "Hope that 2021 is a better year"
+msgid "Hope that 2021 is a better year hey"
 msgstr ""
