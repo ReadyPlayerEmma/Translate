@@ -18,10 +18,10 @@ msgstr ""
 "Project-Id-Version: foldingathome\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2020-12-30 20:20\n"
+"PO-Revision-Date: 2020-12-31 01:21\n"
 
 msgid "P53"
-msgstr ""
+msgstr "P53"
 
 msgid "Over half of all known cancers involve some mutation in p53, the so-called guardian of the cell. p53 is a tumor-suppressor which signals for cell death if DNA gets damaged."
 msgstr "Plus de la moitié des cancers connus impliquent une mutation de p53, un gène qu’on appelle le gardien du génome. Le p53 est un gène suppresseur de tumeur, qui provoque l’apoptose, soit le processus de mort cellulaire, si l’ADN est endommagé."
