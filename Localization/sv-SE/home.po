@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: foldingathome\n"
 "Language-Team: Swedish\n"
 "Language: sv_SE\n"
-"PO-Revision-Date: 2020-12-30 20:19\n"
+"PO-Revision-Date: 2020-12-31 01:21\n"
 
 msgid "I AM"
 msgstr "JAG ÄR"
@@ -48,13 +48,13 @@ msgid "Available for:"
 msgstr "Tillgänglig för:"
 
 msgid "Linux"
-msgstr ""
+msgstr "Linux"
 
 msgid "Windows"
-msgstr ""
+msgstr "Windows"
 
 msgid "Mac"
-msgstr ""
+msgstr "Mac"
 
 msgid "Start folding"
 msgstr "Börja vika"
@@ -78,7 +78,7 @@ msgid "[Facebook](https://www.facebook.com/Foldinghome-136059519794607/)"
 msgstr ""
 
 msgid "[Twitter](https://twitter.com/foldingathome)"
-msgstr ""
+msgstr "[Twitter](https://twitter.com/foldingathome)"
 
 msgid "1 in a million"
 msgstr "1 i miljonen"
