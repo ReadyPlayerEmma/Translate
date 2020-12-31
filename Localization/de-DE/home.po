@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: foldingathome\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2020-12-30 20:19\n"
+"PO-Revision-Date: 2020-12-31 01:21\n"
 
 msgid "I AM"
 msgstr "ICH BIN"
@@ -48,13 +48,13 @@ msgid "Available for:"
 msgstr "Verfügbar für:"
 
 msgid "Linux"
-msgstr ""
+msgstr "Linux"
 
 msgid "Windows"
-msgstr ""
+msgstr "Windows"
 
 msgid "Mac"
-msgstr ""
+msgstr "Mac"
 
 msgid "Start folding"
 msgstr "Jetzt mitfalten"
@@ -105,7 +105,7 @@ msgid "Learn more"
 msgstr "Mehr erfahren"
 
 msgid "Team"
-msgstr ""
+msgstr "Team"
 
 msgid "Folding@home is now based at the Washington University in St. Louis School of Medicine, under the directorship of Dr. [Greg Bowman](https://bowmanlab.biochem.wustl.edu/). Drs. [John Chodera](http://www.choderalab.org/) (MSKCC) and [Vince Voelz](http://www.voelzlab.org/) (Temple University) are also active in helping manage the project. Together, their three labs are the primary drivers of Folding@home."
 msgstr "Folding@home ist derzeit bei der Washington University in der St. Louis School of Medicine zu Hause und steht unter der Leitung von Dr. [Greg Bowman](https://bowmanlab.biochem.wustl.edu/). Die Doktoren [John Chodera](http://www.choderalab.org/) (MSKCC) und [Vince Voelz](http://www.voelzlab.org/) (Temple University) unterstützen das Projektmanagement ebenfalls aktiv. Ihre drei Labore sind die Hauptantriebskraft von Folding@home."
