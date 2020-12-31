@@ -18,10 +18,10 @@ msgstr ""
 "Project-Id-Version: foldingathome\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2020-12-30 20:19\n"
+"PO-Revision-Date: 2020-12-31 01:21\n"
 
 msgid "FAQ"
-msgstr ""
+msgstr "FAQ"
 
 msgid "**You'll find a large library of frequently asked questions about all things connected to Folding@home.**"
 msgstr "**Vous trouverez ici un large éventail de questions fréquentes sur les divers thèmes associés à Folding@home.**"
