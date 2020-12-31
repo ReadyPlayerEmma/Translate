@@ -18,10 +18,10 @@ msgstr ""
 "Project-Id-Version: foldingathome\n"
 "Language-Team: Spanish, Mexico\n"
 "Language: es_MX\n"
-"PO-Revision-Date: 2020-12-30 20:03\n"
+"PO-Revision-Date: 2020-12-31 01:21\n"
 
 msgid "HEPATITIS C"
-msgstr ""
+msgstr "HEPATITIS C"
 
 msgid "Hepatitis C is a chronic viral infection of the liver that can lead to cirrhosis or cancer. It affects roughly 3-4 million people in the US alone."
 msgstr "La hepatitis C es una infección viral crónica del hígado que puede provocar cirrosis o cáncer. Afecta aproximadamente a 3-4 millones de personas solo en los EE. UU."
