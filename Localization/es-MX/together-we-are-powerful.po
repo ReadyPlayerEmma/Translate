@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: foldingathome\n"
 "Language-Team: Spanish, Mexico\n"
 "Language: es_MX\n"
-"PO-Revision-Date: 2020-12-30 20:03\n"
+"PO-Revision-Date: 2020-12-31 01:21\n"
 
 msgid "Together We Are Powerful - Folding@home"
 msgstr "Juntos Somos Poderosos - Folding@home"
@@ -69,7 +69,7 @@ msgid "Foldingathome Ambassadors"
 msgstr "Embajadores de Foldingathome"
 
 msgid "Satya Nadella"
-msgstr ""
+msgstr "Satya Nadella"
 
 msgid "CEO, Microsoft"
 msgstr "Director ejecutivo, Microsoft"
@@ -81,85 +81,85 @@ msgid "President & CEO, AMD"
 msgstr "Presidente & Director ejecutivo, AMD"
 
 msgid "Jensen Huang"
-msgstr ""
+msgstr "Jensen Huang"
 
 msgid "CEO, Nvidia"
 msgstr "Director ejecutivo, Nvidia"
 
 msgid "Bob Swan"
-msgstr ""
+msgstr "Bob Swan"
 
 msgid "CEO Intel"
 msgstr "Director ejecutivo de Intel"
 
 msgid "Dr. Gregory Bowman"
-msgstr ""
+msgstr "Dr. Gregory Bowman"
 
 msgid "Director of Foldingathome & Associate Professor, Washington University School of Medicine in St Louis"
 msgstr "Director de Foldingathome y Profesor asociado, Escuela de Medicina de la Universidad de Washington en St. Louis"
 
 msgid "Charles H. Giancarlo"
-msgstr ""
+msgstr "Charles H. Giancarlo"
 
 msgid "CEO, Pure Storage"
 msgstr "Director ejecutivo, Pure Storage"
 
 msgid "Ilma Caprnja"
-msgstr ""
+msgstr "Ilma Caprnja"
 
 msgid "Medical student, Lund University"
 msgstr "Estudiante de medicina, Lund University"
 
 msgid "Minerva Santana"
-msgstr ""
+msgstr "Minerva Santana"
 
 msgid "Director of Innovation and Technological Transformation at LaLiga"
 msgstr "Director de Innovación y Transformación Tecnológica en LaLiga"
 
 msgid "Michael Ward"
-msgstr ""
+msgstr "Michael Ward"
 
 msgid "PhD Student, Bowman lab, Washington University School of Medicine in St Louis"
 msgstr "Estudiante de doctorado, laboratorio Bowman, Facultad de Medicina de la Universidad de Washington en St Louis"
 
 msgid "Patrick P. Gelsinger"
-msgstr ""
+msgstr "Patrick P. Gelsinger"
 
 msgid "CEO, VMware"
 msgstr "Director ejecutivo, VMware"
 
 msgid "Pedro Valadas"
-msgstr ""
+msgstr "Pedro Valadas"
 
 msgid "Founder, PCMR / Communication Advisor, Foldingathome"
 msgstr "Fundador, PCMR / Asesor de comunicación, Foldingathome"
 
 msgid "Vijay Pande"
-msgstr ""
+msgstr "Vijay Pande"
 
 msgid "General Partner, Andreessen Horowitz / Founder, Foldingathome"
 msgstr "Socio general, Andreessen Horowitz / Fundador, Foldingathome"
 
 msgid "Anton Thynell"
-msgstr ""
+msgstr "Anton Thynell"
 
 msgid "Head of Collaboration and Communication, Foldingathome"
 msgstr "Jefe de Colaboración y Comunicación, Foldingathome"
 
 msgid "Kirill Konovalov"
-msgstr ""
+msgstr "Kirill Konovalov"
 
 msgid "Phd Student Xuhui lab, The Hong Kong University of Science and Technology"
 msgstr "Estudiante de doctorado en el laboratorio Xuhui, Universidad de Ciencia y Tecnología de Hong Kong"
 
 msgid "Emma Matthies"
-msgstr ""
+msgstr "Emma Matthies"
 
 msgid "Info Security Engineer"
 msgstr "Ingeniera de seguridad de la información"
 
 msgid "Kevin Wasielewski"
-msgstr ""
+msgstr "Kevin Wasielewski"
 
 msgid "Co-founder & CEO Origin PC"
 msgstr "Cofundador y Director de Origin PC"
