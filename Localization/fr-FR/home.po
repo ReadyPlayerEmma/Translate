@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: foldingathome\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2020-12-30 20:19\n"
+"PO-Revision-Date: 2020-12-31 01:21\n"
 
 msgid "I AM"
 msgstr "ÊTRE"
@@ -48,13 +48,13 @@ msgid "Available for:"
 msgstr "Disponible pour:"
 
 msgid "Linux"
-msgstr ""
+msgstr "Linux"
 
 msgid "Windows"
-msgstr ""
+msgstr "Windows"
 
 msgid "Mac"
-msgstr ""
+msgstr "Mac"
 
 msgid "Start folding"
 msgstr "DÉMARRER"
@@ -75,10 +75,10 @@ msgid "For tech support: [foldingforum.org](https://foldingforum.org/)"
 msgstr "Support technique: [foldingforum.org](https://foldingforum.org/)"
 
 msgid "[Facebook](https://www.facebook.com/Foldinghome-136059519794607/)"
-msgstr ""
+msgstr "[Facebook](https://www.facebook.com/Foldinghome-136059519794607/)"
 
 msgid "[Twitter](https://twitter.com/foldingathome)"
-msgstr ""
+msgstr "[Twitter](https://twitter.com/foldingathome)"
 
 msgid "1 in a million"
 msgstr "1 parmi un million"
