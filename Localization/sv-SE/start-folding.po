@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: foldingathome\n"
 "Language-Team: Swedish\n"
 "Language: sv_SE\n"
-"PO-Revision-Date: 2020-12-30 20:18\n"
+"PO-Revision-Date: 2020-12-31 01:21\n"
 
 msgid "Start folding"
 msgstr "Börja vika"
@@ -42,5 +42,5 @@ msgid "[Docker for GPUs](https://hub.docker.com/r/foldingathome/fah-gpu)"
 msgstr "[Docker för Gpuer](https://hub.docker.com/r/foldingathome/fah-gpu)"
 
 msgid "[vSphere](https://flings.vmware.com/vmware-appliance-for-folding-home)"
-msgstr ""
+msgstr "[vSphere](https://flings.vmware.com/vmware-appliance-for-folding-home)"
 
