@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: foldingathome\n"
 "Language-Team: Spanish, Mexico\n"
 "Language: es_MX\n"
-"PO-Revision-Date: 2020-12-30 20:03\n"
+"PO-Revision-Date: 2020-12-31 01:21\n"
 
 msgid "I AM"
 msgstr "SOY"
@@ -48,13 +48,13 @@ msgid "Available for:"
 msgstr "Disponible para:"
 
 msgid "Linux"
-msgstr ""
+msgstr "Linux"
 
 msgid "Windows"
-msgstr ""
+msgstr "Windows"
 
 msgid "Mac"
-msgstr ""
+msgstr "Mac"
 
 msgid "Start folding"
 msgstr "Comienza a plegar"
