@@ -18,10 +18,10 @@ msgstr ""
 "Project-Id-Version: foldingathome\n"
 "Language-Team: Spanish, Mexico\n"
 "Language: es_MX\n"
-"PO-Revision-Date: 2020-12-30 20:03\n"
+"PO-Revision-Date: 2020-12-31 01:21\n"
 
 msgid "COVID-19"
-msgstr ""
+msgstr "COVID-19"
 
 msgid "Page info"
 msgstr "Información de la página"
