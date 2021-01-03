@@ -13,7 +13,7 @@ msgstr ""
 msgid "Sundays is a good day hello"
 msgstr ""
 
-msgid "New year is just around the corner hi"
+msgid "Happy 2021 everyone!"
 msgstr ""
 
 msgid "Hope that 2021 is a better year hey"
